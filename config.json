@@ -1,0 +1,6 @@
+{
+  "token": "",  // Put Bot token here
+  "channel_id": 1234567890, //Do not put speechmarks or anything here just channel ID number
+  "status_page_url": "https://status.cfx.re/", // Status Page You Want To Get Updates From
+  "prefix": "!" // Common Sense
+}
